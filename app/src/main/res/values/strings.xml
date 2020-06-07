@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">School Hour Tracker</string>
+    <string name="txtClassName">Enter a Class Name</string>
+    <string name="lblBtnAdd">Add Class</string>
+    <string name="txtEmpty">List of Classes</string>
+    <string name="txtClassId">Enter a Class Code</string>
+    <string name="lvClassdata">Class List</string>
+    <string name="BtnStop">Stop Time</string>
+    <string name="BtnStart">Start Time</string>
+</resources>
